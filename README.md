@@ -1,3 +1,4 @@
 # msa
 1_msa
-naro
+msa
+msa
